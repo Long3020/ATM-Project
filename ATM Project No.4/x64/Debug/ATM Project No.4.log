@@ -1,0 +1,4 @@
+﻿  13.cpp
+C:\Users\Admin\source\repos\ATM Project No.4\ATM Project No.4\13.cpp(133,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\ATM Project No.4\ATM Project No.4\13.cpp(139,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ATM Project No.4.vcxproj -> C:\Users\Admin\source\repos\ATM Project No.4\x64\Debug\ATM Project No.4.exe

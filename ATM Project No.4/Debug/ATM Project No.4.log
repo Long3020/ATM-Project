@@ -1,0 +1,10 @@
+﻿  13.cpp
+C:\Users\Admin\source\repos\ATM Project No.4\ATM Project No.4\13.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ATM Project No.4\ATM Project No.4\13.cpp(132,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ATM Project No.4\ATM Project No.4\13.cpp(133,41): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\source\repos\ATM Project No.4\ATM Project No.4\13.cpp(139,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\ATM Project No.4\ATM Project No.4\13.cpp(273,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ATM Project No.4\ATM Project No.4\13.cpp(347,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ATM Project No.4\ATM Project No.4\13.cpp(386,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\source\repos\ATM Project No.4\ATM Project No.4\13.cpp(413,21): warning C4018: '<': signed/unsigned mismatch
+  ATM Project No.4.vcxproj -> C:\Users\Admin\source\repos\ATM Project No.4\Debug\ATM Project No.4.exe
